@@ -6,7 +6,7 @@ export function Sobre() {
       <div>
         <div className="flex absolute">
           <img
-            className="w-[600px] h-[300px] lg:w-[800px] lg:h-[600px] pb-8 hidden md:block"
+            className="w-[600px] h-[300px] lg:w-[800px] lg:h-[600px] pb-0 hidden md:block"
             src={Eu}
             alt=""
           />
