@@ -2,7 +2,7 @@ import Eu from "../../assets/Eu.png";
 
 export function Sobre() {
   return (
-    <div className="w-full py-[200px] md:py-[400px] xl:gap-0 lgl:flex-row items-center text-txt">
+    <div className="w-full mx-auto py-[200px] md:py-[400px] xl:gap-0 lgl:flex-row items-center text-txt">
       <div>
         <div className="flex absolute">
           <img
