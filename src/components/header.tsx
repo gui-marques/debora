@@ -4,7 +4,7 @@
 
  export function Header() {
   return (
-    <div className="w-1/2 mx-auto justify-between items-center  border-b-[1px] border-txt border-lightTextgrid justify-items-center text-txt">
+    <div className="w-1/2 mx-10 justify-between items-center  border-b-[1px] border-txt border-lightTextgrid justify-items-center text-txt">
       <div className="">
         <img
           className="w-[320px] md:w-[320px] pt-10"
